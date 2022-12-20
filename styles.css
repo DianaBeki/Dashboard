@@ -413,14 +413,14 @@ input:not(:focus):placeholder-shown {
 }
 
 #privacy {
-  background-image: url(img/privacy.svg);
+  background-image: url(./images/privacy-img.svg);
   transition: all 2s ease-out;
 
 }
 
 #privacy:hover {
   background-image: url(./images/privacy-img.svg);
-  color: rgba(0, 0, 0, 0.934);
+  color: aquamarine;
   font-weight: 400;
   font-size: 1rem;
 }
